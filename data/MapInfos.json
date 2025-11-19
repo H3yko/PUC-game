@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Pântano","order":7,"parentId":0,"scrollX":1622,"scrollY":933,"quick":false},
+{"id":2,"expanded":true,"name":"Vila da Montanha","order":3,"parentId":0,"scrollX":982.8,"scrollY":640.1999999999999,"quick":false},
+{"id":3,"expanded":false,"name":"Início","order":2,"parentId":0,"scrollX":459,"scrollY":456,"quick":false},
+{"id":4,"expanded":false,"name":"Floresta Perdida","order":6,"parentId":0,"scrollX":868,"scrollY":1760,"quick":false},
+{"id":5,"expanded":false,"name":"Mina","order":8,"parentId":0,"scrollX":877,"scrollY":767,"quick":false},
+{"id":6,"expanded":false,"name":"Taverna","order":4,"parentId":2,"scrollX":973.1999999999999,"scrollY":550.1999999999999,"quick":false},
+{"id":7,"expanded":false,"name":"Caverna de Pedra","order":9,"parentId":0,"scrollX":832,"scrollY":832,"quick":false},
+{"id":8,"expanded":false,"name":"teste","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":559.8,"quick":false},
+{"id":9,"expanded":false,"name":"Casa","order":5,"parentId":2,"scrollX":973.1999999999999,"scrollY":550.1999999999999,"quick":false}
+]
